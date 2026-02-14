@@ -102,7 +102,7 @@ public class HomeworkL5 {
                 default:
                     System.out.println("\nВВЕДЕНО НЕКОРРЕКТНОЕ ЗНАЧЕНИЕ !!!");
                     break;
-
+#dddd
             }
 
         }
